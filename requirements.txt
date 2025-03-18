@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+tableau-api
+powerbi-sdن
+sqlalchemy
+geopandas
+folium
+requests
