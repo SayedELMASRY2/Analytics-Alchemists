@@ -198,23 +198,23 @@ accident prevention.
   Team      Role                Responsibilities
   Member                        
   --------- ------------------- ------------------------------------------
-  Mohamed   Data Collection &   \- Collect raw datasets`<br>`{=html}-
+  Mohamed  | Data Collection &  |  Collect raw datasets
             Integration         Integrate multiple sources into a single
                                 dataset
 
-  Dai       Data Cleaning &     \- Handle missing data`<br>`{=html}-
-            Preprocessing       Convert formats`<br>`{=html}- Ensure data
+  Dai      | Data Cleaning &    |  Handle missing data
+            Preprocessing       Convert formats Ensure data
                                 quality
 
-  Sayed     Exploratory Data    \- Perform descriptive
-            Analysis (EDA)      analysis`<br>`{=html}- Visualize
-                                insights`<br>`{=html}- Detect patterns
+  Sayed    | Exploratory Data  |   Perform descriptive
+            Analysis (EDA)      analysis Visualize
+                                insights Detect patterns
 
-  Nadine    Dashboard           \- Build interactive dashboards in Tableau
+  Nadine   | Dashboard         |   Build interactive dashboards in Tableau
             Development         & Power BI
 
-  Yomna     Machine Learning &  \- Apply ML models for
-            Automation          prediction`<br>`{=html}- Automate tasks
+  Yomna    | Machine Learning & |  Apply ML models for
+            Automation          prediction Automate tasks
                                 with Python scripts
   ------------------------------------------------------------------------
 
