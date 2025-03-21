@@ -1,5 +1,3 @@
-
-::: {.cell .markdown id="OYtdDrzNd0Xg"}
 # 📊 Car Accidents Data Analysis & Insights {#-car-accidents-data-analysis--insights}
 
 ## 🔍 Executive Summary {#-executive-summary}
