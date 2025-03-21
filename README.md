@@ -83,34 +83,33 @@ accident prevention.
 
 ## 🔬 Methodology 
 
-### **1. Data Collection & Preprocessing** {#1-data-collection--preprocessing}
+### **1. Data Collection & Preprocessing** 
 
 -   Handle missing values and perform feature engineering..\
 -   Acquire and clean accident data.\
 -   Integrate geospatial and external datasets (weather, traffic).
 
-### **2. Exploratory Data Analysis (EDA)** {#2-exploratory-data-analysis-eda}
+### **2. Exploratory Data Analysis (EDA)** 
 
 -   Identify trends in accident frequency, severity, and contributing
     factors.\
 -   Visualize accident hotspots and seasonal patterns.\
 -   Automate reporting for executive and operational teams.
 
-### **3. Machine Learning for Prediction & Risk Analysis** {#3-machine-learning-for-prediction--risk-analysis}
-
+### **3. Machine Learning for Prediction & Risk Analysis** 
 -   Build models to predict accident-prone areas and severity.\
 -   Perform classification and clustering to segment accident types.\
 -   Customer segmentation using clustering algorithms.\
 -   Recommendation engines for personalized offerings.
 
-### **4. Business Intelligence & Dashboard Development** {#4-business-intelligence--dashboard-development}
+### **4. Business Intelligence & Dashboard Development** 
 
 -   Create interactive dashboards for stakeholders.\
 
 -   Enable real-time monitoring of accident trends.\
 
--   ## Implement role-based access for secure data exploration. {#implement-role-based-access-for-secure-data-exploration}
-
+-   ## Implement role-based access for secure data exploration.
+-   
 ## 📊 Key Performance Indicators (KPIs) 
 
 -   **Accident Trends**: Monthly/yearly accident counts and severity
