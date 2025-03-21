@@ -1,14 +1,3 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
 
 ::: {.cell .markdown id="OYtdDrzNd0Xg"}
 # 📊 Car Accidents Data Analysis & Insights {#-car-accidents-data-analysis--insights}
