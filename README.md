@@ -153,7 +153,7 @@ accident prevention.
 |------------|--------------------------|----------------|----------------|
 | **Mohamed** | Data Collection & Integration | Collect raw datasets, integrate multiple sources into a single dataset | [profile](https://www.linkedin.com/in/mohamedradi5) |
 | **Dai**     | Data Cleaning & Preprocessing | Handle missing data, convert formats, ensure data quality | [profile](https://www.linkedin.com/in/dai-guevara-8854b3325/) |
-| **Sayed**   | Exploratory Data Analysis (EDA) | Perform descriptive analysis, visualize insights, detect patterns | [profile](www.linkedin.com/in/sayed-elmasry) |
+| **Sayed**   | Exploratory Data Analysis (EDA) | Perform descriptive analysis, visualize insights, detect patterns | [profile](https://www.linkedin.com/in/sayed-elmasry/) |
 | **Nadine**  | Dashboard Development | Build interactive dashboards in Tableau & Power BI |  [profile](https://www.linkedin.com/in/nadine-elkamery-a245a2342/) |
 | **Yomna**   | Machine Learning & Automation | Apply ML models for prediction, automate tasks with Python scripts |  [profile](https://www.linkedin.com/in/yomna-ahmed-4a6075258) |
 
@@ -199,7 +199,7 @@ accident prevention.
 ## 📩 Contact Information 
 
 📧 Email: \[<sayed.elmasri.business@gmail.com>\]\
-🔗 LinkedIn: [profile](www.linkedin.com/in/sayed-elmasry)
+🔗 LinkedIn: [profile](https://www.linkedin.com/in/sayed-elmasry/)
 
 ------------------------------------------------------------------------
 
