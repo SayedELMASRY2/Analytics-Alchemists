@@ -84,28 +84,28 @@ accident prevention.
 
 ### **1. Data Collection & Preprocessing** 
 
--   Handle missing values and perform feature engineering..\
--   Acquire and clean accident data.\
+-   Handle missing values and perform feature engineering..
+-   Acquire and clean accident data.
 -   Integrate geospatial and external datasets (weather, traffic).
 
 ### **2. Exploratory Data Analysis (EDA)** 
 
 -   Identify trends in accident frequency, severity, and contributing
-    factors.\
--   Visualize accident hotspots and seasonal patterns.\
+    factors.
+-   Visualize accident hotspots and seasonal patterns.
 -   Automate reporting for executive and operational teams.
 
 ### **3. Machine Learning for Prediction & Risk Analysis** 
--   Build models to predict accident-prone areas and severity.\
--   Perform classification and clustering to segment accident types.\
--   Customer segmentation using clustering algorithms.\
+-   Build models to predict accident-prone areas and severity.
+-   Perform classification and clustering to segment accident types.
+-   Customer segmentation using clustering algorithms.
 -   Recommendation engines for personalized offerings.
 
 ### **4. Business Intelligence & Dashboard Development** 
 
--   Create interactive dashboards for stakeholders.\
+-   Create interactive dashboards for stakeholders.
 
--   Enable real-time monitoring of accident trends.\
+-   Enable real-time monitoring of accident trends.
 
 -   ## Implement role-based access for secure data exploration.
 -   
@@ -138,11 +138,11 @@ accident prevention.
 
 ## 🚀 Deliverables 
 
--   **Cleaned and processed accident dataset**\
+-   **Cleaned and processed accident dataset**
 -   **Interactive dashboards showcasing accident trends and
-    predictions**\
--   **Machine learning models for accident severity prediction**\
--   **Final report with insights and recommendations.**\
+    predictions**
+-   **Machine learning models for accident severity prediction**
+-   **Final report with insights and recommendations.**
 -   **Final Documentation & Strategic Recommendations**
 
 ------------------------------------------------------------------------
@@ -175,11 +175,11 @@ accident prevention.
     ```
 
 3.  **Configure Data Sources** for BI tools and machine learning
-    models.\
+    models.
 
-4.  **Deploy Dashboards & Reports** using Power BI/Tableau.\
+4.  **Deploy Dashboards & Reports** using Power BI/Tableau.
 
-5.  **Run Machine Learning Models** and validate results.\
+5.  **Run Machine Learning Models** and validate results.
 
 6.  **Enable Self-Service Analytics** for business users.
 
