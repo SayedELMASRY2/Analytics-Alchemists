@@ -147,9 +147,7 @@ accident prevention.
 
 ------------------------------------------------------------------------
 
-## 👥 Team Roles & Responsibilities 
-
-## Team Roles and Responsibilities
+## 👥 Roles & Responsibilities
 
 | Team Member | Role                     | Responsibilities |
 |------------|--------------------------|----------------|
