@@ -125,61 +125,16 @@ accident prevention.
 
 ## 📅 Project Timeline & Milestones 
 
-  -----------------------------------------------------------------------------
-  **Phase**         **Tasks**         **Responsible**        **Duration**
-  ----------------- ----------------- ---------------------- ------------------
-  **Phase 1: Data   \- Collect raw    Mohamed                Week 1
-  Collection &      datasets                                 
-  Integration**     `<br>`{=html} -                          
-                    Integrate                                
-                    multiple sources                         
-                    `<br>`{=html} -                          
-                    Convert formats                          
+ ## Project Phases and Responsibilities
 
-  **Phase 2: Data   \- Handle missing Dai & Yomna            Week 2
-  Cleaning &        data                                     
-  Preprocessing**   `<br>`{=html} -                          
-                    Ensure data                              
-                    quality                                  
-                    `<br>`{=html} -                          
-                    Automate data                            
-                    processing with                          
-                    Python scripts                           
+| **Phase**                      | **Tasks**                                      | **Responsible**         | **Duration** |
+|--------------------------------|-----------------------------------------------|-------------------------|-------------|
+| **Phase 1: Data Collection & Integration** | - Collect raw datasets  <br> - Integrate multiple sources  <br> - Convert formats | Mohamed                 | Week 1      |
+| **Phase 2: Data Cleaning & Preprocessing** | - Handle missing data  <br> - Ensure data quality  <br> - Automate data processing with Python scripts | Dai & Yomna             | Week 2      |
+| **Phase 3: Exploratory Data Analysis (EDA)** | - Perform descriptive analysis  <br> - Visualize insights  <br> - Detect patterns | Sayed                   | Week 3      |
+| **Phase 4: Machine Learning & Dashboard Development** | - Apply ML models for prediction (Yomna)  <br> - Build interactive dashboards in Tableau & Power BI (Nadine)  <br> - Organize data for clear presentation | Yomna (ML) & Nadine (Dashboards) | Week 4-5    |
+| **Phase 5: Finalization & Deployment** | - Integrate final results  <br> - Optimize performance  <br> - Prepare final report & documentation | All Team Members        | Week 6      |
 
-  **Phase 3:        \- Perform        Sayed                  Week 3
-  Exploratory Data  descriptive                              
-  Analysis (EDA)**  analysis                                 
-                    `<br>`{=html} -                          
-                    Visualize                                
-                    insights                                 
-                    `<br>`{=html} -                          
-                    Detect patterns                          
-
-  **Phase 4:        \- Apply ML       Yomna (ML) & Nadine    Week 4-5
-  Machine Learning  models for        (Dashboards)           
-  & Dashboard       prediction                               
-  Development**     `<br>`{=html} -                          
-                    Build interactive                        
-                    dashboards in                            
-                    Tableau & Power                          
-                    BI                                       
-                    `<br>`{=html} -                          
-                    Organize data for                        
-                    clear                                    
-                    presentation                             
-
-  **Phase 5:        \- Integrate      All Team Members       Week 6
-  Finalization &    final results                            
-  Deployment**      `<br>`{=html} -                          
-                    Optimize                                 
-                    performance                              
-                    `<br>`{=html} -                          
-                    Prepare final                            
-                    report &                                 
-                    documentation                            
-  -----------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 ## 🚀 Deliverables 
 
@@ -194,29 +149,16 @@ accident prevention.
 
 ## 👥 Team Roles & Responsibilities 
 
-  ------------------------------------------------------------------------
-  Team      Role                Responsibilities
-  Member                        
-  --------- ------------------- ------------------------------------------
-  Mohamed  | Data Collection &  |  Collect raw datasets
-            Integration         Integrate multiple sources into a single
-                                dataset
+## Team Roles and Responsibilities
 
-  Dai      | Data Cleaning &    |  Handle missing data
-            Preprocessing       Convert formats Ensure data
-                                quality
+| Team Member | Role                     | Responsibilities |
+|------------|--------------------------|----------------|
+| **Mohamed** | Data Collection & Integration | Collect raw datasets, integrate multiple sources into a single dataset |
+| **Dai**     | Data Cleaning & Preprocessing | Handle missing data, convert formats, ensure data quality |
+| **Sayed**   | Exploratory Data Analysis (EDA) | Perform descriptive analysis, visualize insights, detect patterns |
+| **Nadine**  | Dashboard Development | Build interactive dashboards in Tableau & Power BI |
+| **Yomna**   | Machine Learning & Automation | Apply ML models for prediction, automate tasks with Python scripts |
 
-  Sayed    | Exploratory Data  |   Perform descriptive
-            Analysis (EDA)      analysis Visualize
-                                insights Detect patterns
-
-  Nadine   | Dashboard         |   Build interactive dashboards in Tableau
-            Development         & Power BI
-
-  Yomna    | Machine Learning & |  Apply ML models for
-            Automation          prediction Automate tasks
-                                with Python scripts
-  ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
