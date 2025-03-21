@@ -1,4 +1,4 @@
-# 📊 Car Accidents Data Analysis & Insights {#-car-accidents-data-analysis--insights}
+# 📊 Car Accidents Data Analysis & Insights 
 
 ## 🔍 Executive Summary 
 
