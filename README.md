@@ -17,16 +17,15 @@ accident prevention.
 
 1. [Project Objectives](#-project-objectives)
 2. [Dataset Overview](#-dataset-overview)
-3. [Project Questions](#-project-questions)
-4. [Technologies & Tools](#-technologies--tools)
-5. [Methodology](#-methodology)
-6. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-7. [Project Timeline & Milestones](#-project-timeline--milestones)
-8. [Deliverables](#-deliverables)
-9. [Roles & Responsibilities](#-roles--responsibilities)
-10. [Future Enhancements](#-future-enhancements)
-11. [About](#-about)
-12. [Contact Information](#-contact-information)
+3. [Technologies & Tools](#-technologies--tools)
+4. [Methodology](#-methodology)
+5. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+6. [Project Timeline & Milestones](#-project-timeline--milestones)
+7. [Deliverables](#-deliverables)
+8. [Roles & Responsibilities](#-roles--responsibilities)
+9. [Future Enhancements](#-future-enhancements)
+10. [About](#-about)
+11. [Contact Information](#-contact-information)
 
 
 ------------------------------------------------------------------------
