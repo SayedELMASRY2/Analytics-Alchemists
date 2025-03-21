@@ -1,6 +1,6 @@
 # 📊 Car Accidents Data Analysis & Insights {#-car-accidents-data-analysis--insights}
 
-## 🔍 Executive Summary {#-executive-summary}
+## 🔍 Executive Summary 
 
 This project focuses on analyzing car accident data to identify
 patterns, contributing factors, and potential safety improvements. Using
@@ -13,7 +13,7 @@ accident prevention.
 
 ------------------------------------------------------------------------
 
-## 📖 Table of Contents {#-table-of-contents}
+## 📖 Table of Contents 
 
 1. [Project Objectives](#-project-objectives)
 2. [Dataset Overview](#-dataset-overview)
