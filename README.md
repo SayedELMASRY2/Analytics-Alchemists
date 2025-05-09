@@ -129,9 +129,9 @@ accident prevention.
 
 | **Phase**                      | **Tasks**                                      | **Responsible**         | **Duration** |
 |--------------------------------|-----------------------------------------------|-------------------------|-------------|
-| **Phase 1: Data Collection & Integration** | - Collect raw datasets  <br> - Integrate multiple sources  <br> - Convert formats | Mohamed                 | Week 1      |
-| **Phase 2: Data Cleaning & Preprocessing** | - Handle missing data  <br> - Ensure data quality  <br> - Automate data processing with Python scripts | Dai & Yomna             | Week 2      |
-| **Phase 3: Exploratory Data Analysis (EDA)** | - Perform descriptive analysis  <br> - Visualize insights  <br> - Detect patterns | Sayed                   | Week 3      |
+| **Phase 1:Data Cleaning & Preprocessing** | - Handle missing data  <br> - Ensure data quality  <br> - Automate data processing with Python scripts | Sayed                 | Week 1      |
+| **Phase 2: SQL** | Extract data, perform advanced querying, support data analysis to generate insights | Mohamed            | Week 2      |
+| **Phase 3: Exploratory Data Analysis (EDA)** | - Perform descriptive analysis  <br> - Visualize insights  <br> - Detect patterns | Dai                   | Week 3      |
 | **Phase 4: Machine Learning & Dashboard Development** | - Apply ML models for prediction (Yomna)  <br> - Build interactive dashboards in Tableau & Power BI (Nadine)  <br> - Organize data for clear presentation | Yomna (ML) & Nadine (Dashboards) | Week 4-5    |
 | **Phase 5: Finalization & Deployment** | - Integrate final results  <br> - Optimize performance  <br> - Prepare final report & documentation | All Team Members        | Week 6      |
 
@@ -151,9 +151,9 @@ accident prevention.
 
 | Team Member | Role                     | Responsibilities |  Linkedin |
 |------------|--------------------------|----------------|----------------|
-| **Mohamed** | Data Collection & Integration | Collect raw datasets, integrate multiple sources into a single dataset | [profile](https://www.linkedin.com/in/mohamedradi5) |
-| **Dai**     | Data Cleaning & Preprocessing | Handle missing data, convert formats, ensure data quality | [profile](https://www.linkedin.com/in/dai-guevara-8854b3325/) |
-| **Sayed**   | Exploratory Data Analysis (EDA) | Perform descriptive analysis, visualize insights, detect patterns | [profile](https://www.linkedin.com/in/sayed-elmasry/) |
+| **Sayed** | Data Cleaning & Preprocessing | Handle missing data, convert formats, ensure data quality | [profile](https://www.linkedin.com/in/sayed-elmasry/) |
+| **Mohamed**     | SQL | 'Write queries, manage databases, optimize SQL queries | [profile](https://www.linkedin.com/in/mohamedradi5) |
+| **Dai**   | Exploratory Data Analysis (EDA) | Perform descriptive analysis, visualize insights, detect patterns | [profile](https://www.linkedin.com/in/dai-guevara-8854b3325/) |
 | **Nadine**  | Dashboard Development | Build interactive dashboards in Tableau & Power BI |  [profile](https://www.linkedin.com/in/nadine-elkamery-a245a2342/) |
 | **Yomna**   | Machine Learning & Automation | Apply ML models for prediction, automate tasks with Python scripts |  [profile](https://www.linkedin.com/in/yomna-ahmed-4a6075258) |
 
